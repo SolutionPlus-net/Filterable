@@ -1,6 +1,6 @@
 <?php
 
-namespace Mabrouk\Filterable\Traits;
+namespace Otas\Filterable\Traits;
 
 Trait Searchable
 {

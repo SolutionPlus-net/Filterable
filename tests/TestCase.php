@@ -2,7 +2,7 @@
 
 namespace JohnDoe\BlogPackage\Tests;
 
-use Mabrouk\Filterable\FilterableServiceProvider;
+use Otas\Filterable\FilterableServiceProvider;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {

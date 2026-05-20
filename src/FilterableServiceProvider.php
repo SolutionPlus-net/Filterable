@@ -1,6 +1,6 @@
 <?php
 
-namespace Mabrouk\Filterable;
+namespace Otas\Filterable;
 
 use Illuminate\Support\ServiceProvider;
 

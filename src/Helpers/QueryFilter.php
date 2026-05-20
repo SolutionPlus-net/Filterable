@@ -1,6 +1,6 @@
 <?php
 
-namespace Mabrouk\Filterable\Helpers;
+namespace Otas\Filterable\Helpers;
 
 use Illuminate\Http\Request;
 use Illuminate\Database\Eloquent\Builder;
